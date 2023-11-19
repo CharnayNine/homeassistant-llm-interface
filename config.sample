@@ -1,0 +1,4 @@
+OPENAI_API_KEY="xxxxxxxxxxxx"
+OPENAI_MODEL="gpt4"
+HOMEASSISTANT_ENDPOINT="http://localhost:8123"
+HOMEASSISTANT_API_KEY="xxxxxxxxxx"
